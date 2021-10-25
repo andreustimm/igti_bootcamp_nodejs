@@ -1,0 +1,15 @@
+{
+  "nextId": 4,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Andreus Jartã Timm",
+      "balance": 500
+    },
+    {
+      "id": 3,
+      "name": "Mariana Aparecida Menoi",
+      "balance": 6543.21
+    }
+  ]
+}
